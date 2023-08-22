@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kurt Lourens @ Rabobank
+- 👥 I am in Team Nomads
+- 🌱 I’m currently working in NodeJS, Angular, React and a few more trendy things!
+- 📫 Reach me on MS Teams
